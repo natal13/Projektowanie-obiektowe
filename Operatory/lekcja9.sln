@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "liczby zespolone", "lekcja9\lekcja9.vcxproj", "{D87022F7-BFDA-4438-BA8A-04E6313F1510}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "godziny i minuty", "godziny i minuty\godziny i minuty.vcxproj", "{2FEC0B01-658D-4B4E-9E89-2D46FD48AC94}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "odwrotne przypisanie", "odwrotne przypisanie\odwrotne przypisanie.vcxproj", "{9CCA9515-B815-4C87-8AED-946C93D91B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87022F7-BFDA-4438-BA8A-04E6313F1510}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D87022F7-BFDA-4438-BA8A-04E6313F1510}.Debug|Win32.Build.0 = Debug|Win32
+		{D87022F7-BFDA-4438-BA8A-04E6313F1510}.Release|Win32.ActiveCfg = Release|Win32
+		{D87022F7-BFDA-4438-BA8A-04E6313F1510}.Release|Win32.Build.0 = Release|Win32
+		{2FEC0B01-658D-4B4E-9E89-2D46FD48AC94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FEC0B01-658D-4B4E-9E89-2D46FD48AC94}.Debug|Win32.Build.0 = Debug|Win32
+		{2FEC0B01-658D-4B4E-9E89-2D46FD48AC94}.Release|Win32.ActiveCfg = Release|Win32
+		{2FEC0B01-658D-4B4E-9E89-2D46FD48AC94}.Release|Win32.Build.0 = Release|Win32
+		{9CCA9515-B815-4C87-8AED-946C93D91B3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CCA9515-B815-4C87-8AED-946C93D91B3A}.Debug|Win32.Build.0 = Debug|Win32
+		{9CCA9515-B815-4C87-8AED-946C93D91B3A}.Release|Win32.ActiveCfg = Release|Win32
+		{9CCA9515-B815-4C87-8AED-946C93D91B3A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
