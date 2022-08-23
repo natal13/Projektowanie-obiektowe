@@ -1,0 +1,13 @@
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\bin\Debug\netcoreapp3.1\Zaliczeniowy.exe
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\bin\Debug\netcoreapp3.1\Zaliczeniowy.deps.json
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\bin\Debug\netcoreapp3.1\Zaliczeniowy.runtimeconfig.json
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\bin\Debug\netcoreapp3.1\Zaliczeniowy.runtimeconfig.dev.json
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\bin\Debug\netcoreapp3.1\Zaliczeniowy.dll
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\bin\Debug\netcoreapp3.1\Zaliczeniowy.pdb
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.AssemblyInfo.cs
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.dll
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.pdb
+C:\Users\natal\Desktop\semestr 6\net\Zaliczeniowy\Zaliczeniowy\obj\Debug\netcoreapp3.1\Zaliczeniowy.genruntimeconfig.cache
