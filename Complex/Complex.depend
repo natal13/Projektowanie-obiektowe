@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576743488 source:c:\users\marek\desktop\3semestr\programowanie\pr 2\complex\main.cpp
+	<iostream>
+	"Complex.h"
+
+1576757472 c:\users\marek\desktop\3semestr\programowanie\pr 2\complex\include\complex.h
+	<iostream>
+
