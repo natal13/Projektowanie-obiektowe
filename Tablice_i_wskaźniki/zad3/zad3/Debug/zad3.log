@@ -1,0 +1,16 @@
+﻿Build started 2019-05-08 13:21:42.
+     1>Project "D:\Programowanie obiektowe Arek P\lekcja8\zad3\zad3\zad3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\programowanie obiektowe arek p\lekcja8\zad3\zad3\main.cpp(8): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\programowanie obiektowe arek p\lekcja8\zad3\zad3\main.cpp(9): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\programowanie obiektowe arek p\lekcja8\zad3\zad3\main.cpp(10): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programowanie obiektowe Arek P\lekcja8\zad3\Debug\zad3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programowanie obiektowe Arek P\lekcja8\zad3\Debug\zad3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programowanie obiektowe Arek P\lekcja8\zad3\Debug\zad3.lib" /MACHINE:X86 Debug\main.obj
+         zad3.vcxproj -> D:\Programowanie obiektowe Arek P\lekcja8\zad3\Debug\zad3.exe
+     1>Done Building Project "D:\Programowanie obiektowe Arek P\lekcja8\zad3\zad3\zad3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65

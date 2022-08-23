@@ -1,0 +1,134 @@
+﻿  CString.cpp
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(3,17): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(4,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(5,5): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(6,5): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(7,1): warning C4508: "CString": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(9,17): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(10,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(11,5): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(12,5): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(13,1): warning C4508: "CString": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(15,17): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(16,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(21,9): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(22,9): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(24,13): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(28,9): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(29,9): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(31,1): warning C4508: "CString": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(33,17): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(33,31): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(33,31): error C2143: błąd składniowy: brakuje „,” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(34,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(35,5): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(35,14): error C2065: "s": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(36,5): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(36,21): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(37,30): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(38,9): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(38,19): error C2065: "s": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(39,1): warning C4508: "CString": funkcja powinna zwrócić wartość; założono typ zwracany "void"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(43,18): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(43,18): error C2523: „<Nieznany>::~CString”: niezgodność tagu destruktor
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(44,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(44,1): error C2084: funkcja "int CString(void)" ma już treść
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(3): message : zobacz poprzednią definicję „CString”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(45,14): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(45,18): error C2541: "delete": nie można usunąć obiektów, które nie są wskaźnikami
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(50,22): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(51,1): error C2270: "len": modyfikatory niedozwolone dla funkcji niebędących funkcjami członkowskimi
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(52,12): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(55,19): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(56,1): error C2270: "index": modyfikatory niedozwolone dla funkcji niebędących funkcjami członkowskimi
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(57,30): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(58,13): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(64,21): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(66,36): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(69,20): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(69,31): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(70,13): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(73,23): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(75,36): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(78,20): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(78,31): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(79,13): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(82,25): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(84,36): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(87,20): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(87,31): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(88,13): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(89,25): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(89,36): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(90,13): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(95,6): error C2039: „ostream”: Nie jest składową „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\predefined C++ types (compiler internal)(367): message : zobacz deklarację „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(95,13): error C2143: błąd składniowy: brakuje „;” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(95,13): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(95,32): error C2039: „ostream”: Nie jest składową „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\predefined C++ types (compiler internal)(367): message : zobacz deklarację „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(95,41): error C2065: "os": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(95,45): error C2059: błąd składniowy: „const”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(96,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(96,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,6): error C2039: „istream”: Nie jest składową „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\predefined C++ types (compiler internal)(367): message : zobacz deklarację „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,13): error C2143: błąd składniowy: brakuje „;” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,13): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,32): error C2039: „istream”: Nie jest składową „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\predefined C++ types (compiler internal)(367): message : zobacz deklarację „std”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,41): error C2065: "is": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,54): error C2065: "s": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,55): error C2563: niezgodność w liście formalnych parametrów
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,55): error C2473: "operator >>": wygląda jak definicja funkcji, ale nie ma żadnej listy parametrów.
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(107,55): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(108,1): error C2448: ">>": inicjator w stylu funkcyjnym wydaje się być definicją funkcji
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(119,26): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(120,1): error C2270: "[]": modyfikatory niedozwolone dla funkcji niebędących funkcjami członkowskimi
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(121,14): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(122,12): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(125,27): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(126,1): error C2556: "char &[](unsigned int)": przeciążona funkcja różni się tylko typem zwracanym od "char [](unsigned int)"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(119): message : zobacz deklarację „[]”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(125,27): error C2040: "[]": "char &(unsigned int)"różni się w poziomach pośredników od "char (unsigned int)"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(127,14): error C2065: "length": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(128,12): error C2065: "data": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(133,8): error C2143: błąd składniowy: brakuje „;” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(133,8): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(133,1): error C2365: "CString": zmiana definicji; definicja poprzednia była "funkcja"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(133,29): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(133,43): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(133,43): error C2143: błąd składniowy: brakuje „,” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(134,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(134,1): error C2059: błąd składniowy: „{”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(134,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(134,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(147,8): error C2143: błąd składniowy: brakuje „;” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(147,8): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(147,1): error C2365: "CString": zmiana definicji; definicja poprzednia była "funkcja"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(147,30): error C2653: "CString": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(147,44): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(147,44): error C2143: błąd składniowy: brakuje „,” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(148,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(148,1): error C2059: błąd składniowy: „{”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(148,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(148,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(166,9): error C2143: błąd składniowy: brakuje „;” przed „+”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(166,19): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(166,1): error C2365: "CString": zmiana definicji; definicja poprzednia była "funkcja"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(166,33): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(166,33): error C2143: błąd składniowy: brakuje „,” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(167,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(167,1): error C2803: "operator +" musi mieć conajmniej jeden formalny parametr typu klasy
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(168,20): error C2065: "lhs": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(168,28): error C2065: "rhs": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(171,9): error C2143: błąd składniowy: brakuje „;” przed „+”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(171,19): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(171,1): error C2365: "CString": zmiana definicji; definicja poprzednia była "funkcja"
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(171,33): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(171,33): error C2143: błąd składniowy: brakuje „,” przed „&”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(172,1): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(173,20): error C2065: "lhs": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(173,36): error C2065: "rhs": niezadeklarowany identyfikator
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(176,9): error C2143: błąd składniowy: brakuje „;” przed „+”
+C:\Users\natal\Desktop\programowanie\String\CString\CString\CString.cpp(176,19): fatal error C1003: Licznik błędów przekracza 100; zatrzymywanie kompilacji

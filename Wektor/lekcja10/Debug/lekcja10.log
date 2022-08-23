@@ -1,0 +1,21 @@
+﻿Build started 2019-06-05 13:23:59.
+     1>Project "D:\Programowanie obiektowe Arek P\lekcja10\lekcja10\lekcja10.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cw1main.cpp
+         cw1main.cpp
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(14): error C2143: syntax error : missing ';' before '<'
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(14): error C2238: unexpected token(s) preceding ';'
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(14): error C2988: unrecognizable template declaration/definition
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(14): error C2059: syntax error : '<'
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(15): error C2143: syntax error : missing ';' before '}'
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.h(15): error C2238: unexpected token(s) preceding ';'
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.cpp(48): error C2065: 'A' : undeclared identifier
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.cpp(48): error C2065: 'B' : undeclared identifier
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.cpp(61): error C2350: 'Matematyka::max' is not a static member
+     1>d:\programowanie obiektowe arek p\lekcja10\lekcja10\cw1main.cpp(47): error C3856: 'Matematyka': class is not a class template
+     1>Done Building Project "D:\Programowanie obiektowe Arek P\lekcja10\lekcja10\lekcja10.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36
